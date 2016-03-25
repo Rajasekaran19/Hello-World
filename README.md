@@ -1,3 +1,4 @@
 # Hello-World
 
-I an new to git hub. I would like to learn embedded programming.
+I am new to github. I would like to learn embedded programming.
+I am interested in Contiki OS and Cooja simulation
