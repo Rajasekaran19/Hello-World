@@ -1,2 +1,3 @@
 # Hello-World
-just another repository
+
+I an new to git hub. I would like to learn embedded programming.
